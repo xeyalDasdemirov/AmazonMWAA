@@ -31,3 +31,14 @@ CREATE TABLE IF not EXISTS pl.soccer (
   goals     int
 );
 
+5. Data Processing: 
+
+  5.1 S3 Sensor that waits for raw files to arrive into a predefined S3 bucket prefix
+  
+  5.2 An EMR job to generate reporting data sets
+  
+  5.3 S3-to-Redshift copy of the aggregated data 
+  
+  
+6. Dag file is added to the dag folder in the repo, update your S3 buckets, folders, AWS accounts and add to the DAG folder in S3.
+
