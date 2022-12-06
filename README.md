@@ -20,9 +20,12 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/795e88bb-17e2-498f-82d1-2
 
 Note: Instead of Create schema and redshift tables run the below scripts: 
 
---    Create pl schema.
+--  Create pl schema.
+
 CREATE schema pl;
+
 --    Create soccer table.
+
 CREATE TABLE IF not EXISTS pl.soccer (
   team      text,
   goals     int
