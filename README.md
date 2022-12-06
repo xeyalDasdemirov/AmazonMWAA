@@ -51,3 +51,4 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/795e88bb-17e2-498f-82d1-2
 
     The DAG will be initially set to disabled state by default.
 You will need to enable the DAG (by switching the On/Off toggle button) to be picked up by the scheduler. Once the DAG is enabled we can also run the DAG manually.
+<img width="1501" alt="Screen Shot 2022-12-06 at 11 58 29 AM" src="https://user-images.githubusercontent.com/28351206/205974765-2027b50b-8351-4d44-a3f3-ae9e9dcf035f.png">
