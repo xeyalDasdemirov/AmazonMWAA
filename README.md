@@ -47,6 +47,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/795e88bb-17e2-498f-82d1-2
 
 8. Add Redshfit connection to Airflow: https://catalog.us-east-1.prod.workshops.aws/workshops/795e88bb-17e2-498f-82d1-2104f4824168/en-US/workshop-2-2-2/m1-processing/redshift
 
+
 9. Dag run: 
 
     The DAG will be initially set to disabled state by default.
@@ -54,3 +55,5 @@ You will need to enable the DAG (by switching the On/Off toggle button) to be pi
 <img width="1501" alt="Screen Shot 2022-12-06 at 11 58 29 AM" src="https://user-images.githubusercontent.com/28351206/205974765-2027b50b-8351-4d44-a3f3-ae9e9dcf035f.png">
 
 That's it! We have orchestrated a data pipeline which gets triggered when the data files arrive in S3, performs aggregation with EMR Spark, and loads the results into Redshift!
+
+<img width="1501" alt="Screen Shot 2022-12-06 at 12 03 03 PM" src="https://user-images.githubusercontent.com/28351206/205975771-dbaced64-0eff-4976-8695-66c9654dd4c8.png">
