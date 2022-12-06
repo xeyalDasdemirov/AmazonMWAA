@@ -49,5 +49,5 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/795e88bb-17e2-498f-82d1-2
 
 9. Dag run: 
 
-        The DAG will be initially set to disabled state by default.
-        You will need to enable the DAG (by switching the On/Off toggle button) to be picked up by the scheduler. Once the DAG is enabled we can also run         the DAG manually.
+    The DAG will be initially set to disabled state by default.
+You will need to enable the DAG (by switching the On/Off toggle button) to be picked up by the scheduler. Once the DAG is enabled we can also run the DAG manually.
