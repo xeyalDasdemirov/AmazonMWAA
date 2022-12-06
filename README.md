@@ -45,4 +45,6 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/795e88bb-17e2-498f-82d1-2
 
 7. The Pyspark script is added to scripts folder in the repo, add Pyspark file to the s3://your-bucket/scripts/emr/.
 
-8. 
+8. Add Redshfit connection to Airflow: https://catalog.us-east-1.prod.workshops.aws/workshops/795e88bb-17e2-498f-82d1-2104f4824168/en-US/workshop-2-2-2/m1-processing/redshift
+
+
