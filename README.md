@@ -41,5 +41,5 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/795e88bb-17e2-498f-82d1-2
   
   
   
-6. Dag file is added to the dag folder in the repo, update your S3 buckets, folders, AWS accounts and add to the DAG folder in S3.
+6. Dag file is added to the dag folder in the repo, update your S3 buckets, folders, AWS accounts and add dag file to the DAG folder in S3.
 
