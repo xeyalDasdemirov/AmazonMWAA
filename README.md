@@ -43,6 +43,6 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/795e88bb-17e2-498f-82d1-2
   
 6. Dag file is added to the dag folder in the repo, update your S3 buckets, folders, IAM roles and add dag file to the DAG folder in S3.
 
-7. The Pyspark script is added to scripts in the repo, add Pyspark file to the s3://your-bucket/scripts/emr/.
+7. The Pyspark script is added to scripts folder in the repo, add Pyspark file to the s3://your-bucket/scripts/emr/.
 
 8. 
